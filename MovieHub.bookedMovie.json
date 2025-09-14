@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "68c67cb7487f09dd690eddb3"
+  },
+  "user": {
+    "$oid": "6510f1a2b8d1f1a23c456700"
+  },
+  "movie": {
+    "$oid": "650f1a2b8d1f1a23c4567890"
+  },
+  "theater": "PVR Cinemas - VR Surat",
+  "screen": "Screen 1",
+  "showTime": "10:00 AM",
+  "seats": [
+    "A1",
+    "A2"
+  ],
+  "totalPrice": 700,
+  "status": "booked",
+  "createdAt": {
+    "$date": "2025-09-14T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c67cb7487f09dd690eddb4"
+  },
+  "user": {
+    "$oid": "6510f1a2b8d1f1a23c456701"
+  },
+  "movie": {
+    "$oid": "650f1a2b8d1f1a23c4567895"
+  },
+  "theater": "INOX - Reliance Mall",
+  "screen": "Screen 2",
+  "showTime": "1:30 PM",
+  "seats": [
+    "B5",
+    "B6",
+    "B7"
+  ],
+  "totalPrice": 960,
+  "status": "booked",
+  "createdAt": {
+    "$date": "2025-09-14T08:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c67cb7487f09dd690eddb5"
+  },
+  "user": {
+    "$oid": "6510f1a2b8d1f1a23c456702"
+  },
+  "movie": {
+    "$oid": "650f1a2b8d1f1a23c4567892"
+  },
+  "theater": "Rajhans Cinemas",
+  "screen": "Screen 3",
+  "showTime": "4:00 PM",
+  "seats": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+  ],
+  "totalPrice": 1400,
+  "status": "booked",
+  "createdAt": {
+    "$date": "2025-09-14T08:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c67cb7487f09dd690eddb6"
+  },
+  "user": {
+    "$oid": "6510f1a2b8d1f1a23c456703"
+  },
+  "movie": {
+    "$oid": "650f1a2b8d1f1a23c4567895"
+  },
+  "theater": "Valentine Multiplex",
+  "screen": "Screen 1",
+  "showTime": "6:30 PM",
+  "seats": [
+    "D10",
+    "D11"
+  ],
+  "totalPrice": 400,
+  "status": "booked",
+  "createdAt": {
+    "$date": "2025-09-14T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68c67cb7487f09dd690eddb7"
+  },
+  "user": {
+    "$oid": "6510f1a2b8d1f1a23c456704"
+  },
+  "movie": {
+    "$oid": "650f1a2b8d1f1a23c4567895"
+  },
+  "theater": "INOX - VR Surat",
+  "screen": "Screen 5",
+  "showTime": "9:00 PM",
+  "seats": [
+    "E1",
+    "E2",
+    "E3"
+  ],
+  "totalPrice": 1500,
+  "status": "booked",
+  "createdAt": {
+    "$date": "2025-09-14T08:45:00.000Z"
+  }
+}]
